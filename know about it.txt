@@ -1,0 +1,13 @@
+
+purpose: The objective of this program is that to manage your password just by remembering one password i.e, of this program.
+
+LABEL: You will find saying word label everywhere in this program. Label basically means the name of the password you want to save.
+	eg: if you want to save the password of facebook then you can simply type "facebook" or "fb" when label is asked. Actually 
+	you can set any thing in that field. You need label to access password.
+
+
+gate password: It is simply the password of this app.
+
+hidden commands:
+	cp or sp --> To set your gate password.
+	
