@@ -125,8 +125,7 @@ def showAllLabel():
 
 ############### CREATING CONNECTION TO THE DATABASE.
 
-# db_path = getcwd()+'\\pwd.db'
-db_path = "D:\\python\\test\\pwd.db"
+db_path = getcwd()+'\\pwd.db'
 conn = sqlite3.connect(db_path)
 c = conn.cursor()
 
