@@ -1,5 +1,0 @@
-1. no enc for special characters in enc_and_dec
-
-2. Add feature of generating password
-
-3. To write the comments on working of funcs
